@@ -10,6 +10,7 @@ setup(
         "absl-py",
         "diffusers[torch]==0.17.1",
         "accelerate==0.17",
+        "huggingface-hub==0.25.2",
         "wandb",
         "torchvision",
         "inflect==6.0.4",
